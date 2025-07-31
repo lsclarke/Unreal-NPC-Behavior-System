@@ -8,3 +8,5 @@ The brain of the NPC this is where all the most important task take place for th
 
 <img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/e6bc2f34-429b-44b7-8a95-66fc33eef2ba" />
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/f46f5ca2-953b-4021-aaf2-4f6a29129a9f" />
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/48a2548c-8a6b-40ff-8e90-58c7b91526de" />
+
